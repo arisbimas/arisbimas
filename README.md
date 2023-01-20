@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech and programming
 - 🌱 I’m currently learning frontend dev especially Javascrit framework and UI library 
 - 💞️ I’m looking to collaborate on project with someone who has interest in programming especially backend development
-- 📫 How to reach me arisbimas2@gmail.com or https://wa.me/+62895400054130
+- 📫 How to reach me arisbimas2@gmail.com
 
 <!---
 arisbimas/arisbimas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
